@@ -11,35 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Biomedical Engineering (Signal and Image Processing), University of Oulu, 2025
+* B.Sc. in Electrical & Electronics Engineerin, Shahjalal University of Science & Technology(SUST), 2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2024: 
+  * University of Oulu
+  * Duties includes: 
+  * Supervisor: 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Python, MATLAB, C, SQL, Arduino
+* Python Library: PyTorch, TensorFlow, Keras, scikit-learn, Pandas, NumPy, matplotlib, seaborn
+* Version Control System: Git
+* PCB Designing tool: Eagle, Ki-Cad
+* Soft Skills: Team Work, Collaboration
 
 Publications
 ======
